@@ -4,8 +4,9 @@
 Bla bla bla bla
 ## Pruébalo dando click en el botón de abajo
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/binder/v2/gh/JNinoGarc/App/7a559ac70c0f1e0a66c14724b54abf00e4c506a9)
-
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/oschuett/appmode/master?urlpath=%2Fapps%2Fexample_app.ipynb)
+https://gesis.mybinder.org/binder/v2/gh/JNinoGarc/App/df2ca0ea4375c3b6a9fb2b1715cf87e74387d692
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JNinoGarc/App.git/master)
 
 
 ## Acknowledgements
