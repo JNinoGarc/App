@@ -1,7 +1,8 @@
 #!/bin/bash
-pip install matplotlib
+matplotlib
 pip install .
 jupyter nbextension     enable --py --sys-prefix appmode
 jupyter serverextension enable --py --sys-prefix appmode
+matplotlib
 
 #EOF
