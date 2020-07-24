@@ -1,10 +1,8 @@
 # Appmode
 
 **Curvas de indiferencia.**
-
-![screenshots](./screenshots.png)
-
-## Try it live
+Bla bla bla bla
+## Pruébalo
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JNinoGarc/App/blob/master/example_app.ipynb/master)
 Da click en la liga de binder para que vayas directo a la aplicación. Puedes descargar (clonar) las carpetas para explorar su contenido.
