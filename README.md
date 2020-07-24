@@ -6,8 +6,7 @@
 
 ## Try it live
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/oschuett/appmode/master?urlpath=%2Fapps%2Fexample_app.ipynb)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JNinoGarc/App/blob/master/example_app.ipynb/master)
 Da click en la liga de binder para que vayas directo a la aplicación. Puedes descargar (clonar) las carpetas para explorar su contenido.
 
 
